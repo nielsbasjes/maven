@@ -326,8 +326,10 @@ under the License.
                   <includes>
                     <include>${project.artifactId}-${project.version}-src.zip</include>
                     <include>${project.artifactId}-${project.version}-src.tar.gz</include>
+                    <include>${project.artifactId}-${project.version}-src.tar.xz</include>
                     <include>${project.artifactId}-${project.version}-bin.zip</include>
                     <include>${project.artifactId}-${project.version}-bin.tar.gz</include>
+                    <include>${project.artifactId}-${project.version}-bin.tar.xz</include>
                   </includes>
                 </fileSet>
               </fileSets>

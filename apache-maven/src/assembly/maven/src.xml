@@ -23,6 +23,7 @@ under the License.
   <formats>
     <format>zip</format>
     <format>tar.gz</format>
+    <format>tar.xz</format>
   </formats>
   <fileSets>
     <fileSet>
